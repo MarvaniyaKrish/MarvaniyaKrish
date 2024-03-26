@@ -1,0 +1,44 @@
+.one{
+	border: 2px solid black;
+	height: 850px;
+	width: 900px;
+}
+.two{
+	border: 2px solid black;
+	height: 160px;
+	width: 843px;
+	margin-left: 20px;
+	margin-top: 20px;
+	color: white;
+	background-color: black;
+}
+.three{
+	width: 60%;
+	float: right;
+}
+.four{
+	height:190px;
+	width: 25%;
+	float: right;
+	margin-right: 20px;
+	margin-top:20px;
+	padding-right: 50px;
+}
+.five{
+	margin-right: 400px;
+	float: right;
+}
+.six{
+	border: 2px solid black;
+	height: 100px;
+	width: 550px;
+	float: right;
+	margin-left: 180px;
+}
+.seven{
+	border: 2px solid black;
+	height: 70px;
+	width: 870px;
+	padding-top: 30px;
+	padding-left: 30px;
+}

@@ -1,0 +1,35 @@
+.one{
+	border: dashed;
+	height: 120px;
+	width: 200px;
+}
+.two{
+	border: solid;
+	height: 10px;
+	width: 20px;
+	padding: 20px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+	background-color:red;
+}
+.three{
+	border: solid black;
+	height: 10px;
+	width: 20px;
+	padding: 20px;
+	left: 120px;
+	top: 15px;
+	right: 15px;
+	bottom: 30px;
+	float: right;
+	position: absolute;
+	background-color:yellow;
+}
+.four{
+	border: 2px solid black;
+	height: 30px;
+	width: 190px;
+	margin-top: 20px;
+	background-color:lightblue;
+} 

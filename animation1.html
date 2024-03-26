@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		div{
+			width: 250px;
+			height: 250px;
+			background-color: red;
+			position: relative;
+			animation: mymove 5s;
+			animation-fill-mode: forwards;
+			animation-delay: 0s;
+			animation-iteration-count: infinite;
+			animation-direction: reverse;
+			animation-timing-function: ease-in-out;
+			border-radius: 500px;
+		}
+		#div1{
+			animation-timing-function: linear;
+		}
+		#div2{
+			animation-timing-function: ease;
+		}
+		#div3{
+			animation-timing-function: ease-in;
+		}
+		#div4{
+			animation-timing-function: ease-out;
+		}
+		#div5{
+			animation-timing-function: ease-in-out;
+		}
+		@keyframes mymove{
+			0% {
+          transform: translate(0, 0px);
+          background-color: red;
+        }
+        25% {
+          transform: translate(200px, 0px);
+          background-color: orange;
+        }
+        50% {
+          transform: translate(200px, 200px);
+          background-color: green;
+        }
+        75% {
+          transform: translate(0px, 200px);
+          background-color: blue;
+        }
+        100% {
+          transform: translate(0, 0);
+          background-color: deeppink;
+      }
+		
+	</style>
+</head>
+<body>
+	<div class="main"></div>
+
+</body>
+</html>

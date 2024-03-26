@@ -1,0 +1,121 @@
+.one{
+	border: 2px solid black;
+	height: 250px;
+	width: 607px;
+}
+.two{
+	border: 2PX solid pink;
+	height: 20px;
+	width: 99px;
+	background-color: white	;
+	color: black;
+	float: left;
+}
+.three{
+	border: 2PX solid blue;
+	height: 20px;
+	width: 500px;
+	background-color: white	;
+	color: black;
+	float: left;
+}
+.four{
+	border: 2PX solid black;
+	height: 20px;
+	width: 130px;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.five{
+	border: 2PX solid black;
+	height: 20px;
+	width: 130px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.six{
+	border: 2PX solid black;
+	height: 20px;
+	width: 130px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.seven{
+	border: 2PX solid black;
+	height: 20px;
+	width: 130px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.eight{
+	border: 2PX solid black;
+	height: 20px;
+	width: 130px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.krish{
+	border: 2PX solid green;
+	height: 222px;
+	width: 435px;
+	margin-left: 170px;
+	margin-top: -206PX;
+}
+.manan{
+	border: 2PX solid pink;
+	height: 80px;
+	width: 410px;
+	margin-left: 180px;
+	margin-right: 270px;
+	margin-top: -210PX;
+}
+.naman{
+	border: dotted orange;
+	height: 50px;
+	width: 160px;
+	margin-left: 200px;
+	margin-top: -70PX;
+}
+.abc{
+	border: dotted orange;
+	height: 50px;
+	width: 160px;
+	margin-left: 410px;
+	margin-top: -55PX;
+}
+.def{
+	border: 2PX solid  pink;
+	height: 80px;
+	width: 410px;
+	margin-left: 180px;
+	margin-right: 270px;
+	margin-top: 35PX;
+}
+.ghi{
+	border: dotted orange;
+	height: 50px;
+	width: 110px;
+	margin-left: 195px;
+	margin-top: -70PX;
+}
+.jkl{
+	border: dotted orange;
+	height: 50px;
+	width: 110px;
+	margin-left: 325px;
+	margin-top: -55PX;
+}
+.mno{
+	border: dotted orange;
+	height: 50px;
+	width: 110px;
+	margin-left: 456px;
+	margin-top: -55PX;
+}
+.pqr{
+	border-top: 2px solid black;
+	border-left: 2px solid blue;
+	border-right: 2px solid blue;
+	height: 20px;
+	width: 606px;
+}
